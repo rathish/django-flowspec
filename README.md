@@ -1,8 +1,8 @@
 django-flowspec
 ===============
 
-Example
-=======
+ Example
+ =======
 
 	flow testflow {
 
