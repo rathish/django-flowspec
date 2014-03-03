@@ -4,7 +4,7 @@ django-flowspec
 Example
 =======
 
-flow testflow {
+	flow testflow {
 
 	port fail;
 	
@@ -16,4 +16,4 @@ flow testflow {
 	classifier TestClassifier {
 	};
 
-};
+	};
